@@ -1,4 +1,9 @@
 pandas 
 numpy
+pymysql
+mysql-connector-python
+scikit-learn
+python-dotenv
+sqlalchemy
 
--e .
+#-e .
